@@ -1,6 +1,7 @@
 # SalemSpencerGenerator
 Salem-Spencer Series Generator
 https://en.wikipedia.org/wiki/Salem%E2%80%93Spencer_set
+https://en.wikipedia.org/wiki/Salem-Spencer_set
 
 python3 main.py MIN MAX
 
